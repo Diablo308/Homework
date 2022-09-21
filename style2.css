@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}
+
+.profile {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px;
+    width: 100em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.bottom {
+    display: flex;
+    background-color: whitesmoke;
+    margin: 40px;
+    width: 110em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile p {
+padding: 10px;
+}
+
+.bottom p {
+    padding: 10px;
+}
+
+.profile button {
+    font-size: 20px;
+    padding: 5px;
+    color: rgb(61, 134, 230);
+    border-color: rgb(61, 134, 230);
+    background-color: white;
+    border-radius: 10%;
+}
+
+.skills button {
+    font-size: 15px;
+    padding: 10px;
+
+}
